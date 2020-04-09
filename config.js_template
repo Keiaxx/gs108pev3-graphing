@@ -1,0 +1,10 @@
+module.exports = {
+  portNames: ['spectrum', false, false, 'office', 'christian', false, false, 'sagemcom'],
+  cookie: "GS108SID=COOKIEHERE",
+  refreshSeconds: 5,
+  switchip: '192.168.86.94',
+  influx: {
+    host: '192.168.86.133',
+    db: 'network'
+  }
+}

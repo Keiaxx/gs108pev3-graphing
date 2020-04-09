@@ -1,0 +1,11 @@
+{
+  "name": "gs108pev3_graphing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "influx": "^5.5.1",
+    "request": "^2.88.2"
+  }
+}
